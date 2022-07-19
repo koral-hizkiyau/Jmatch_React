@@ -11,8 +11,13 @@ JMatch is a site that combines the concept of a dating site and a social network
 **Email:**  admindemo@gmail.com
 **Password:** demoadmin1
 
+**For user demo try click:**
 
-[Demo Link](https://jmatch.netlify.app/) 
+**Email:**  demo@gmail.com
+**Password:** demotry12
+
+
+[Website Link](https://jmatch.netlify.app/) 
 
 ## Installation
 
