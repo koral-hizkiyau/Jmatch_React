@@ -1,0 +1,64 @@
+
+/*******************************/
+/********* Footer CSS **********/
+/*******************************/
+.footer {
+    position: relative;
+    /* margin-top: 45px; */
+    /* background: rgb(174, 182, 191); */
+    background: rgb(128, 139, 150);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, .3);
+    padding-bottom: 40px;
+}
+
+.footer .container-fluid {
+    padding: 60px 0 0 0;
+}
+
+.footer .footer-info {
+    position: relative;
+    width: 100%;
+    text-align: center;
+}
+
+
+.footer .copyright {
+    position: relative;
+    text-align: center;
+    margin-top: 30px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.footer .copyright::before {
+    position: absolute;
+    content: "";
+    width: 50%;
+    height: 1px;
+    top: 0;
+    left: 25%;
+    background: rgba(256, 256, 256, .2);
+}
+
+
+.footer-link{
+    margin-top: 29px;
+    font-weight: bold;
+    font-size: 20px;
+    color: lightgrey;
+    width: 50%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.footer-copy-r{
+    width: 50%;
+    font-size: 19px;
+    color: lightgrey;
+
+}
+
+
+
+

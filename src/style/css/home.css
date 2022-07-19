@@ -1,0 +1,164 @@
+/*******************************/
+/******* home/ads CSS *******/
+/*******************************/
+
+.ad-s {
+    position: relative;
+    /* margin: 45px 0; */
+    padding: 90px 0;
+    /* background: #EF233C; */
+    /* background: lavender; */
+    /* background: rgb(214, 234, 248); */
+    background: linear-gradient( rgb(214, 234, 248),#a5cee4);
+}
+
+.ad-s .container {
+    max-width: 900px;
+}
+
+.ad-s .ad-s-icon {
+    /* margin-bottom: 45px; */
+    text-align: center;
+}
+
+.ad-s .ad-s-icon i {
+    font-size: 60px;
+    color: rgba(256, 256, 256, .5);
+}
+
+.ad-s .ad-s-item {
+    position: relative;
+    margin: 0 15px;
+    text-align: center;
+}
+
+.ad-s .ad-s-img {
+    position: relative;
+    margin-bottom: 15px;
+    z-index: 1;
+}
+
+.ad-s .ad-s-item img {
+    margin: 0 auto;
+    /* width: 120px; */
+    width: 180px;
+    padding: 10px;
+    border: 5px dotted #ffffff;
+    border-radius: 100px;
+}
+
+.ad-s .ad-s-text {
+    position: relative;
+    margin-top: -70px;
+    padding: 65px 35px 30px 35px;
+    text-align: center;
+    background: #ffffff;
+    border-radius: 500px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, .3);
+}
+
+.ad-s .ad-s-item p {
+    font-size: 18px;
+    font-style: italic;
+}
+
+.ad-s .ad-s-text h3 {
+    color: #EF233C;
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.ad-s .ad-s-text h4 {
+    color: #666666;
+    font-size: 14px;
+    margin-bottom: 0;
+}
+
+/* AdItem */
+.btn-ad{
+    box-shadow: "inset 0 0 0 50px white" ;
+    width: 145px;
+    height: 52px;
+    font-size: 19px;
+}
+
+.btn-pass{
+    color: #1a1a1a;
+    border-radius: 50px 0 0 50px;
+    border: 2px solid #1a1a1a
+}
+
+.btn-pass:hover{
+    background-color: #1a1a1a;
+    color: white
+}
+
+.btn-like{
+    color: #ff4dc4;
+    border-radius: 0 50px 50px 0;
+    border: 2px solid #ff4dc4;
+}
+
+.btn-like:hover{
+    background-color: #ff4dc4;
+    color: white;
+}
+
+.ad-sugg-input{
+    border-radius: 12px;
+}
+
+#comment-st{
+    background: aliceblue;
+    border: 3px solid white
+
+}
+
+/* comment comment-st */
+
+/* ::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+    /* color: pink;
+  } */ 
+
+  .ad-sugg-input::placeholder{
+      color: lightsteelblue;
+      font-size: 25px;
+      
+  }
+
+
+  .img-match{
+      background-color: white;
+      width: 120px;
+      height: 120px;
+      background-position: center;
+      background-size:cover ;
+      border-radius: 50%;
+      border: 10px solid rgb(255, 49, 135);
+
+  }
+
+  #ownerImg{
+      margin-right: 10px;
+  }
+
+  #secImg{
+      margin-left: -38px;
+
+  }
+
+  #msg-empty{
+      background: linear-gradient(orchid,rgb(211, 144, 209),orchid);
+      color: white;
+      font-size: 20px;
+  }
+
+
+ 
+
+
+
+
+
+

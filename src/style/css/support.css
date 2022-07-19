@@ -1,0 +1,25 @@
+.fafa-st-sup{
+    font-size: 30px;
+    margin-right: 10px;
+
+}
+
+.roundDiv-sup{
+    display: flex;
+    padding: 10px;
+    cursor: pointer;
+}
+
+#btn-supp{
+    width: 130px;
+    border-radius: 3px;
+    color: white;
+    font-size: 16px;
+    padding: 5px;
+    background-color:rgb(51, 68, 255) ;
+    border: none;
+}
+
+.p-supp{
+    color:#3344ff ;
+}
