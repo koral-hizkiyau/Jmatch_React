@@ -1,6 +1,5 @@
 
 
-
 # Jmatch_React
 
 JMatch is a site that combines the concept of a dating site and a social network by framework React-Hooks and server-side NodeJS with MongoDB 🙂
@@ -21,10 +20,10 @@ JMatch is a site that combines the concept of a dating site and a social network
 
 ## Installation
 
-Use the package manager npm install to install foobar.
+To install this library, run:
 
 ```bash
-npm install
+$ npm install
 ```
 
 
@@ -34,4 +33,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
-[MIT](LICENSES.md)
+MIT © [Koral](LICENSES.md)
