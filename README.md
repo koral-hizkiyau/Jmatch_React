@@ -1,24 +1,18 @@
 
 
-**For admin demo try click:**
-
-**Email:**  admindemo@gmail.com
-**Password:** demoadmin1
-
-
-
-https://jmatch.netlify.app/ – For Demo! [Jmatch](https://jmatch.netlify.app/) 
-
 
 # Jmatch_React
 
 JMatch is a site that combines the concept of a dating site and a social network by framework React-Hooks and server-side NodeJS with MongoDB 🙂
 
+
 **For admin demo try click:**
 
 **Email:**  admindemo@gmail.com
 **Password:** demoadmin1
 
+
+[Demo Link](https://jmatch.netlify.app/) 
 
 ## Installation
 
