@@ -8,7 +8,7 @@ JMatch is a site that combines the concept of a dating site and a social network
 
 **For admin demo try click:**
 
-**Email:**  admindemo@gmail.com
+**Email:**  demoadmin@gmail.com
 **Password:** demoadmin1
 
 **For user demo try click:**
